@@ -38,7 +38,7 @@ If your Pi does not currently have git, you will need to install it first with `
 
 ### <a name="fulfillingRequirements"></a>Fulfilling requirements
 
-This project is distributed with all its dependencies, so you don't need to download anything else!
+**This project is distributed with all its dependencies, so you don't need to download anything else!**
 
 ### <a name="settingYourLocation"></a>Setting your location
 
