@@ -16,8 +16,8 @@
 	var metric = 'metric';
 	
 	// Format for date and time
-	var formatTime = 'hh:mm:ss'
-	var formatDate = 'dddd, MMMM Do'
+	//var formatTime = 'hh:mm:ss'
+	//var formatDate = 'dddd, MMMM Do'
 
 	// Yahoo! query interval (milliseconds)
 	// Default is every 15 minutes. Be reasonable. Don't query Yahoo every 500ms.
