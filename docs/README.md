@@ -49,8 +49,8 @@ Open `js/weather.js` and find the following section at the top:
 var city = 'Poltava';
 
 // Your temperature unit measurement
-// This bit is simple, 'c' for Celcius, and 'f' for Fahrenheit
-var unit = 'c';
+// This bit is simple, 'metric' for Celcius, and 'imperial' for Fahrenheit
+var metric = 'metric';
 ```
 Change these variables to match your location and unit measurement!
 
