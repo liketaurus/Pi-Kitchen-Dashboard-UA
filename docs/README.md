@@ -17,7 +17,7 @@ This project turns your monitor and Raspberry Pi into a simple, skinnable time a
     - [Scheduling screen sleep](#scheduling)
 + [Changing the skin](#changingTheSkin)
 + [Creating skins](#creatingSkins)
-+ [Credit](#credit)
++ [Credits](#credit)
 
 * * *
 
@@ -127,7 +127,7 @@ Skins are kept, conveniently, in the skins folder. To switch skins, edit `Pi-Kit
 
 Creating your own skin or a new skin for distribution is easy and only requires knowledge of HTML and CSS. Just copy the `default` folder under skins, rename it, and begin editing. Comments in the default skin will guide you through the process, but it basically boils down to 99% using your imagination and 1% placing a few IDs and classes so that time and weather data can be auto-populated.
 
-## <a name="credit"></a>Credit
+## <a name="credit"></a>Credits
 
 Weather icons by Lukas Bischoff and Erik Flowers https://github.com/erikflowers/weather-icons. Icons licensed under [SIL OFL 1.1](http://scripts.sil.org/OFL).  
 
