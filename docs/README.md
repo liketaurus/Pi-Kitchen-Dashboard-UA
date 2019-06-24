@@ -97,7 +97,7 @@ Unclutter causes the mouse cursor to disappear when the mouse isn't being moved.
 	```
 Your Pi should now atomatically start kiosk mode and show the dashboard full screen once your desktop loads.
 
-If you want to start this dashboard occasionally - just launch ```run.sh```!
+**If you don't want to start dashboard automatically at the boot tile, and want to start this dashboard occasionally - from time to time - just launch ```run.sh```!**
 
 If your time or date are incorrect, use `sudo raspi-config` to set your locale and timezone.
 
