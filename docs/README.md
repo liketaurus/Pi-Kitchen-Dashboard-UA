@@ -133,7 +133,7 @@ Weather icons by Lukas Bischoff and Erik Flowers https://github.com/erikflowers/
 
 Time formatting by [Moment.js](http://momentjs.com/)  
 
-Weather data retrieved using Yahoo! Weather API.  
+Weather data retrieved using [Open Weather Map](https://openweathermap.org/) API.  
 
 Default skin responsiveness by [RYJASM](https://github.com/ryjasm).
 
